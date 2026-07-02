@@ -6,6 +6,12 @@
       "runtimeExecutable": "npx",
       "runtimeArgs": ["-y", "serve", "-l", "5173", "."],
       "port": 5173
+    },
+    {
+      "name": "completo-server",
+      "runtimeExecutable": "npx",
+      "runtimeArgs": ["-y", "serve", "-l", "5174", "BardoGordo2.0-Completo"],
+      "port": 5174
     }
   ]
 }
